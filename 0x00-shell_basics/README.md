@@ -1,5 +1,7 @@
 # <p align='center'>0x00. Shell, basics</p>
 
+![image](https://github.com/Bebo-K-S/alx-system_engineering-devops/assets/107813045/db08ce9a-c1f1-408a-b295-02fca337a2d1)
+
 # Learning Objectives
 ## General
 - What does RTFM mean?
