@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Displays the content in the directory.
+
+dir=$('ls')
+
+for i in $dir; do
+    echo "$i" | cut -d'-' -f2
+done
