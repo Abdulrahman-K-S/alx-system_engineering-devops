@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Displays the content of /etc/passwd
+
+file < /etc/passwd
+
+while read -r file_output; do
+      echo "$file_output" | cut -d':' -f1,3,6
+done
