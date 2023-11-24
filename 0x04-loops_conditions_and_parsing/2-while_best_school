@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Same as '1-for_best_school' but uses `while`.
+
+i="0"
+
+while [ $i -ne 10 ]; do
+    echo "Best School"
+    ((i++))
+done
