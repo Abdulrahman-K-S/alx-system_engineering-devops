@@ -1,5 +1,21 @@
 # <p align='center'>0x06. Regular expression</p>
 
+<details>
+  <summary><h2>Table of Contents</h2></summary>
+
+- [Requirements](#requirements)
+- [Mandatory](#mandatory)
+  - [0. Simply matching School](#0-simply-matching-school)
+  - [1. Repetition Token #0](#1-repetition-token-0)
+  - [2. Repetition Token #1](#2-repetition-token-1)
+  - [3. Repetition Token #2](#3-repetition-token-2)
+  - [4. Repetition Token #3](#4-repetition-token-3)
+  - [5. Not quite HBTN yet](#5-not-quite-hbtn-yet)
+  - [6. Call me maybe](#6-call-me-maybe)
+  - [7. OMG WHY ARE YOU SHOUTING?](#7-omg-why-are-you-shouting)
+- [Advanced](#advanced)
+  - [8. Textme](#8-textme)
+</details>
 
 ## Concepts
 For this project, we expect you to look at this concept:
@@ -52,7 +68,7 @@ Read or watch:
 
 ### 0. Simply matching School
 
-![Alt text](Question-0.png)
+![image](https://github.com/Bebo-K-S/alx-system_engineering-devops/assets/107813045/488c3c93-385b-4e11-a3c1-5daa7cf032db)
 
 Requirements:
 
@@ -80,7 +96,7 @@ Solution: [0-simply_match_school.rb](0-simply_match_school.rb).
 
 ### 1. Repetition Token #0
 
-![Alt text](Question-1.png)
+![image](https://github.com/Bebo-K-S/alx-system_engineering-devops/assets/107813045/fba4cd7d-2edc-4c2f-8967-2aeca9ccf6a2)
 
 Requirements:
 
@@ -95,7 +111,7 @@ Solution: [1-repetition_token_0.rb](1-repetition_token_0.rb).
    
 ### 2. Repetition Token #1
 
-![Alt text](Question-2.png)
+![image](https://github.com/Bebo-K-S/alx-system_engineering-devops/assets/107813045/07fa3f55-4e6a-4fea-b842-f8c0126c76ce)
 
 Requirements:
 
@@ -110,7 +126,7 @@ Solution: [2-repetition_token_1.rb](2-repetition_token_1.rb).
    
 ### 3. Repetition Token #2
 
-![Alt text](Question-3.png)
+![image](https://github.com/Bebo-K-S/alx-system_engineering-devops/assets/107813045/40838066-684d-4604-ae0e-888f1734aa62)
 
 Requirements:
 
@@ -125,7 +141,7 @@ Solution: [3-repetition_token_2.rb](3-repetition_token_2.rb).
    
 ### 4. Repetition Token #3
 
-![Alt text](Question-4.png)
+![image](https://github.com/Bebo-K-S/alx-system_engineering-devops/assets/107813045/2f54a834-822b-47f2-8e89-dbb69f158316)
 
 Requirements:
 
@@ -197,7 +213,7 @@ Solution: [6-phone_number.rb](6-phone_number.rb).
  
 ### 7. OMG WHY ARE YOU SHOUTING?
 
-![Alt text](Question-7.png)
+![image](https://github.com/Bebo-K-S/alx-system_engineering-devops/assets/107813045/12c1cbbf-540c-458c-bb0b-799cf3671567)
 
 Requirement:
 
