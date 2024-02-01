@@ -2,4 +2,4 @@
 # Configure the server to enable Nginx on 80 port
 
 ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
-pkill -1 nginx
+pkill -1 nginx 2>/dev/null || echo "nginx is not running"
